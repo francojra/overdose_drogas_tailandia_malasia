@@ -1,7 +1,7 @@
 # Overdose por uso de drogas - Tailandia e Malásia
 
 #### Autora: Jeanne Franco
-#### Data: 30/12/21
+#### Data: 20/08/22
 #### Referência: https://ourworldindata.org/illicit-drug-use
 
 ## Tópicos do script
